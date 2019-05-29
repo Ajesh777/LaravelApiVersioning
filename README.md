@@ -36,4 +36,3 @@
 
 * >```php artisan make:resource v2/PersonResource```
 * >```php artisan make:controller Api/v2/PersonController```
-* >
